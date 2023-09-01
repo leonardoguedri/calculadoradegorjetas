@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/foto_projeto.png" width="100%">
+  <img alt="projeto Calculadora de gorjeta" src="foto_projeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
